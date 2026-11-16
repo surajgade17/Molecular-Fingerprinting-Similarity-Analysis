@@ -1,0 +1,21 @@
+Name,SMILES,Category
+Aspirin,CC(=O)Oc1ccccc1C(=O)O,Analgesic
+Salicylic acid,O=C(O)c1ccccc1O,Aromatic acid
+Ibuprofen,CC(C)Cc1ccc(cc1)C(C)C(=O)O,Analgesic
+Naproxen,COc1ccc2cc(ccc2c1)C(C)C(=O)O,Analgesic
+Paracetamol,CC(=O)Nc1ccc(O)cc1,Analgesic
+Caffeine,Cn1c(=O)c2c(ncn2C)n(C)c1=O,Stimulant
+Theobromine,Cn1c(=O)c2c(ncn2)nc(=O)n(C)c1=O,Methylxanthine
+Theophylline,Cn1c(=O)c2c(ncn2)nc(=O)n1,Methylxanthine
+Benzene,c1ccccc1,Aromatic hydrocarbon
+Toluene,Cc1ccccc1,Aromatic hydrocarbon
+Phenol,Oc1ccccc1,Phenol
+Aniline,Nc1ccccc1,Aromatic amine
+Benzoic acid,O=C(O)c1ccccc1,Aromatic acid
+Methyl benzoate,COC(=O)c1ccccc1,Aromatic ester
+Ethylbenzene,CCc1ccccc1,Aromatic hydrocarbon
+Acetanilide,CC(=O)Nc1ccccc1,Amide
+Benzamide,NC(=O)c1ccccc1,Amide
+Lidocaine,CCN(CC)CC(=O)Nc1c(C)cccc1C,Local anaesthetic
+Metformin,CN(C)C(=N)NC(=N)N,Antidiabetic
+Captopril,CC(CS)C(=O)N1CCCC1C(=O)O,ACE inhibitor
